@@ -85,7 +85,7 @@ author:
   bio              : "I'm a Lecturer (AP) in Economics and Policy at King's College London. I'm interested in Political Economy, Behavioral and Experimental Economics, and Applied Microeconomics."
   location         : "London, United Kingdom"
   employer         :
-  pubmed           : ""
+  pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=AVvi_iMAAAAJ&hl=es"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
