@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-+Lorem ipsum.
+I'm a Lecturer (AP) in Economics and Policy at King's College London. I'm interested in Political Economy, Behavioral and Experimental Economics, and Applied Microeconomics.
