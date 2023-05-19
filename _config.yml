@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Teresa Esteban-Casanelles"
 title_separator          : "-"
-name                     : &name "Teresa Esteban Casanelles"
+name                     : &name ""
 description              : &description ""
 url                      : https://testcas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Teresa Esteban Casanelles"
-  avatar           : "/images/received_10215977408771042-photoaidcom-cropped.png"
+  avatar           : "received_10215977408771042-photoaidcom-cropped.png"
   bio              : "I'm a Lecturer (AP) in Economics and Policy at King's College London. I'm interested in Political Economy, Behavioral and Experimental Economics, and Applied Microeconomics."
   location         : "London, United Kingdom"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
