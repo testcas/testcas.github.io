@@ -5,7 +5,7 @@ collection: publications
 # excerpt: ''
 # date: 2023
 # venue: ''
-paperurl: 'http://academicpages.github.io/files/EstebanCasanelles_PolAdv.pdf'
+paperurl: 'http://testcas.github.io/files/EstebanCasanelles_PolAdv.pdf'
 # citation: ''
 ---
 I measure the effects of street-level political advertising on voting behavior. I use a novel dataset on ad location in a major Spanish city during elections for the national parliament as well as granular socio-economic and voting data. This set-up, where more than two parties are running for office and elections are very competitive, allows me to explore the heterogeneous effects of ads across parties as well as how parties' ads affect other parties' vote shares.
