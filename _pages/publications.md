@@ -19,13 +19,16 @@ To identify the effects of parties' ads, I exploit a legally mandated randomized
 
 **Best Applied Paper by a Young Researcher, Econometric Society -- European Meeting 2023**
 
+*Media Coverage*: [Nada es Gratis](https://nadaesgratis.es/admin/cuales-son-los-efectos-de-la-propaganda-electoral)
 
-### [Better the Devil You Don’t Know? Economic Shocks, New Party Emergence, and Changes in Voting Behavior](EstebanCasanelles_NewPartiesShocks.pdf)
+
+
+### [Better the Devil You Don’t Know? Economic Shocks, New Party Emergence, and Changes in Voting Behavior](http://testcas.github.io/files/EstebanCasanelles_NewPartiesShocks.pdf)
 
 This paper analyses the effects of an economic shock on the emergence of new parties and other changes in voting parties by using regional variation in the exposure to the shock. I find that a worsening of economic conditions as measured by unemployment rate leads to an increase in electoral competition and volatility. In particular, the deeper the effects of the recession in a area, the larger the number of new parties emerge and become more successful and there is an increase in the changes in vote shares. On the other hand, the vote share of parties previously in government decreases and a decrease in vote share concentration.
 
 
-### [The Effect of Incentives on Beliefs and Choices in Games: An Experiment](EstebanCasanellesGoncalves_EIBCG.pdf)
+### [The Effect of Incentives on Beliefs and Choices in Games: An Experiment](http://testcas.github.io/files/EstebanCasanellesGoncalves_EIBCG.pdf)
 with [Duarte Gonçalves](https://duartegoncalves.com/)
 
 How and why do incentive levels affect strategic behavior? This paper examines an experiment designed to identify the causal effect of scaling up incentives on choices and beliefs in strategic settings by holding fixed opponents’ actions. In dominance-solvable games, higher incentives increase action sophistication and
