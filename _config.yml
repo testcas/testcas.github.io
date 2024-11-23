@@ -56,12 +56,12 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+# twitter:
+#   username               : &twitter
 bluesky:               
   username               : &bluesky
-  app_id                 :
-  publisher              :
+#   app_id                 :
+#   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -90,7 +90,7 @@ author:
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bluesky          : "@teresaestebanc.bsky.social"
+  bluesky          : "teresaestebanc"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "TeresaEstebanC"
+  # twitter          : "TeresaEstebanC"
   vine             :
   weibo            :
   xing             :
