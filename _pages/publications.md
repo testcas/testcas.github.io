@@ -28,12 +28,19 @@ To identify the effects of parties' ads, I exploit a legally mandated randomized
 This paper analyses the effects of an economic shock on the emergence of new parties and other changes in voting parties by using regional variation in the exposure to the shock. I find that a worsening of economic conditions as measured by unemployment rate leads to an increase in electoral competition and volatility. In particular, the deeper the effects of the recession in a area, the larger the number of new parties emerge and become more successful and there is an increase in the changes in vote shares. On the other hand, the vote share of parties previously in government decreases and a decrease in vote share concentration.
 
 
-### [The Effect of Incentives on Beliefs and Choices in Games: An Experiment](http://testcas.github.io/files/EstebanCasanellesGoncalves_EIBCG.pdf)
+### [Incentives and Strategic Behaviour: An Experiment](http://testcas.github.io/files/EstebanCasanellesGoncalves_EIBCG.pdf)
 with [Duarte Gonçalves](https://duartegoncalves.com/)
 
-How and why do incentive levels affect strategic behavior? This paper examines an experiment designed to identify the causal effect of scaling up incentives on choices and beliefs in strategic settings by holding fixed opponents’ actions. In dominance-solvable games, higher incentives increase action sophistication and
-best-response rates and decrease mistake propensity. Beliefs tend to become more accurate with higher own incentives in simple games. However, opponents with higher incentive levels are harder to predict: while beliefs track opponents’ behavior when they have higher incentive levels, beliefs about opponents also become
-more biased. We provide evidence that incentives affect cognitive effort and that greater effort increases performance and predicts choice and belief sophistication. Overall, the data lends support to combining both payoff-dependent mistakes and costly reasoning.
+How and why do incentive levels affect strategic behaviour? This paper examines an
+experiment designed to identify the causal effect of scaling up incentives on choices,
+beliefs, and response times in dominance-solvable games. Higher incentives increase
+action sophistication and decrease mistake propensity, while beliefs become more
+accurate, and response times longer. We provide evidence that higher incentives
+increase cognitive effort, as proxied by longer response times, which in turn is
+associated with improved performance and predicts choice sophistication and belief
+accuracy. Overall, the data lend support to both payoff-dependent mistakes and
+costly reasoning models.
+
 
 
 ## Work in progrss
