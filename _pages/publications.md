@@ -31,15 +31,8 @@ This paper analyses the effects of an economic shock on the emergence of new par
 ### [Incentives and Strategic Behaviour: An Experiment](http://testcas.github.io/files/EstebanCasanellesGoncalves_EIBCG.pdf)
 with [Duarte Gonçalves](https://duartegoncalves.com/)
 
-How and why do incentive levels affect strategic behaviour? This paper examines an
-experiment designed to identify the causal effect of scaling up incentives on choices,
-beliefs, and response times in dominance-solvable games. Higher incentives increase
-action sophistication and decrease mistake propensity, while beliefs become more
-accurate, and response times longer. We provide evidence that higher incentives
-increase cognitive effort, as proxied by longer response times, which in turn is
-associated with improved performance and predicts choice sophistication and belief
-accuracy. Overall, the data lend support to both payoff-dependent mistakes and
-costly reasoning models.
+How and why do incentive levels affect strategic behaviour? This paper examines an experiment designed to identify the causal effect of scaling up incentives on choices,
+beliefs, and response times in dominance-solvable games. Higher incentives increase action sophistication and decrease mistake propensity, while beliefs become more accurate, and response times longer. We provide evidence that higher incentives increase cognitive effort, as proxied by longer response times, which in turn is associated with improved performance and predicts choice sophistication and belief accuracy. Overall, the data lend support to both payoff-dependent mistakes and costly reasoning models.
 
 
 
