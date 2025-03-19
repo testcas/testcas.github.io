@@ -37,5 +37,5 @@ beliefs, and response times in dominance-solvable games. Higher incentives incre
 
 
 ## Work in progrss
-- Migrant assimilation and the rise of anti-immigration sentiment
-- Holy votes
+- **Migrant assimilation and the rise of anti-immigration sentiment** with [Alejandro Martínez-Marquina](https://sites.google.com/view/amartinezmarquina/home?authuser=0)
+- **Holy votes** with [Miguel Alquezar-Yus](https://www.malquezaryus.com/) and [Antoni-Italo de Moragas](https://www.antonidemoragas.eu/)
