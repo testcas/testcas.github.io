@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Lecturer (Assistanr Professor) in Economics and Policy at King's College London. I'm interested in Political Economy, Behavioral and Experimental Economics, and Applied Microeconomics.
+I'm a Lecturer (Assistant Professor) in Economics and Policy at King's College London. I'm interested in Political Economy, Behavioral and Experimental Economics, and Applied Microeconomics.
