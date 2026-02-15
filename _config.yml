@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Teresa Esteban Casanelles"
 title_separator          : "-"
 name                     : &name ""
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Teresa Esteban Casanelles"
-  avatar           : "received_10215977408771042-photoaidcom-cropped.png"
+  avatar           : "/images/received_10215977408771042-photoaidcom-cropped.png"
   bio              : " "
   location         : "London, United Kingdom"
   employer         :
