@@ -27,7 +27,7 @@ This paper examines the causal effects of electoral campaigns on voting behavior
 This paper analyses the effects of an economic shock on the emergence of new parties and other changes in voting parties by using regional variation in the exposure to the shock. I find that a worsening of economic conditions as measured by unemployment rate leads to an increase in electoral competition and volatility. In particular, the deeper the effects of the recession in a area, the larger the number of new parties emerge and become more successful and there is an increase in the changes in vote shares. On the other hand, the vote share of parties previously in government decreases and a decrease in vote share concentration.
 
 
-### [Incentives and Strategic Behaviour: An Experiment](http://testcas.github.io/files/EstebanCasanellesGoncalves_EIBCG.pdf)
+### [Incentives and Strategic Behaviour: An Experiment](https://arxiv.org/abs/2304.00412)
 with [Duarte Gonçalves](https://duartegoncalves.com/)
 
 How and why do incentive levels affect strategic behaviour? This paper examines an experiment designed to identify the causal effect of scaling up incentives on choices,
