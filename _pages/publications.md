@@ -33,6 +33,6 @@ with [Duarte Gonçalves](https://duartegoncalves.com/), accepted at *Experimenta
 How do incentive levels affect strategic behaviour? We address this with an experiment that separately identifies own- and opponent-incentive effects in two dominance-solvable games that differ in strategic complexity. Higher own incentives favour more strategically sophisticated actions and increase best responding to stated beliefs. Beliefs shift in a parallel direction and participants expect more sophisticated opponent actions. Furthermore, although higher own incentives increase belief accuracy, opponents with higher incentives are harder to predict. Higher incentives also increase response times, and longer response times are associated with better performance and more sophisticated actions and beliefs. Taken together, the evidence suggests that incentives affect strategic behaviour through two main channels: by reducing payoff-dependent mistakes and by increasing the effort devoted to reasoning, with the returns to that effort shaped by strategic complexity of the environment.
 
 
-## Work in progrss
+## Work in progress
 - **Migrant assimilation and the rise of anti-immigration sentiment** with [Alejandro Martínez-Marquina](https://sites.google.com/view/amartinezmarquina/home?authuser=0)
 - **Holy votes** with [Miguel Alquezar-Yus](https://www.malquezaryus.com/) and [Antoni-Italo de Moragas](https://www.antonidemoragas.eu/)
