@@ -27,12 +27,10 @@ This paper examines the causal effects of electoral campaigns on voting behavior
 This paper analyses the effects of an economic shock on the emergence of new parties and other changes in voting parties by using regional variation in the exposure to the shock. I find that a worsening of economic conditions as measured by unemployment rate leads to an increase in electoral competition and volatility. In particular, the deeper the effects of the recession in a area, the larger the number of new parties emerge and become more successful and there is an increase in the changes in vote shares. On the other hand, the vote share of parties previously in government decreases and a decrease in vote share concentration.
 
 
-### [Incentives and Strategic Behaviour: An Experiment](https://arxiv.org/abs/2304.00412)
-with [Duarte Gonçalves](https://duartegoncalves.com/)
+### [Incentives and Strategic Behaviour](https://arxiv.org/abs/2304.00412)
+with [Duarte Gonçalves](https://duartegoncalves.com/), accepted at *Experimental Economics*
 
-How and why do incentive levels affect strategic behaviour? This paper examines an experiment designed to identify the causal effect of scaling up incentives on choices,
-beliefs, and response times in dominance-solvable games. Higher incentives increase action sophistication and decrease mistake propensity, while beliefs become more accurate, and response times longer. We provide evidence that higher incentives increase cognitive effort, as proxied by longer response times, which in turn is associated with improved performance and predicts choice sophistication and belief accuracy. Overall, the data lend support to both payoff-dependent mistakes and costly reasoning models.
-
+How do incentive levels affect strategic behaviour? We address this with an experiment that separately identifies own- and opponent-incentive effects in two dominance-solvable games that differ in strategic complexity. Higher own incentives favour more strategically sophisticated actions and increase best responding to stated beliefs. Beliefs shift in a parallel direction and participants expect more sophisticated opponent actions. Furthermore, although higher own incentives increase belief accuracy, opponents with higher incentives are harder to predict. Higher incentives also increase response times, and longer response times are associated with better performance and more sophisticated actions and beliefs. Taken together, the evidence suggests that incentives affect strategic behaviour through two main channels: by reducing payoff-dependent mistakes and by increasing the effort devoted to reasoning, with the returns to that effort shaped by strategic complexity of the environment.
 
 
 ## Work in progrss
